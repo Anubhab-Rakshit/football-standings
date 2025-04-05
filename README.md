@@ -106,7 +106,20 @@ FootballVerse is a modern, interactive web application that provides real-time f
 
 ### Data Flow Architecture
 
-![arch](https://github.com/user-attachments/assets/04957e6d-013f-421b-8d3f-a75237a4f607)
+![data-flow-architecture](https://github.com/user-attachments/assets/88b0ccb4-b3bd-45e3-a86d-7e9077fc6fdc)
+
+## Component Architecture
+
+![component-architecture](https://github.com/user-attachments/assets/930044da-cbc3-4d3f-b19a-1a214ee3f2d7)
+
+## API Integration Flow
+
+![api-integration-flow](https://github.com/user-attachments/assets/dee285fe-41f5-49c2-8870-6d4f114db563)
+
+## State Management Flow
+
+![state-management-flow](https://github.com/user-attachments/assets/8e327b71-cece-43ed-90b4-b101aa2f9a5e)
+
 
 
 The application uses a layered approach to fetch and display data:
@@ -238,6 +251,8 @@ football-standings/
 5. **Mock Data** serves as a fallback when the API is unavailable or for development
 
 ### API Endpoints
+
+
 
 | Endpoint | Description | Parameters |
 |----------|-------------|------------|
