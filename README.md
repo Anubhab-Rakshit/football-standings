@@ -60,7 +60,8 @@ FootballVerse is a modern, interactive web application that provides real-time f
 
 <img width="1507" alt="image" src="https://github.com/user-attachments/assets/4cf87183-b7da-42a2-b3b3-77141dc88b23" />
 
-<img width="1507" alt="image" src="https://github.com/user-attachments/assets/bdf21842-3706-4f18-ae7c-726e9b477615" />
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/cddd8d8b-059b-4334-9e8c-f40f1759df31" />
+
 
 <img width="1499" alt="image" src="https://github.com/user-attachments/assets/bd96c028-15aa-4cc5-a943-45dc0ebbb4ef" />
 
