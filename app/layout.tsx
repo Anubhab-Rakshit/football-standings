@@ -18,7 +18,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "FootballVerse | Global Football Standings",
-  description: "Explore football standings from top competitions around the world in an immersive experience",
+  description: "Explore football standings from top competitions around the world in an immersive experience , Built by Anubhab Rakshit",
 }
 
 export default function RootLayout({
