@@ -7,6 +7,10 @@
 
 FootballVerse is a modern, interactive web application that provides real-time football standings, match results, and team statistics from top leagues around the world. Built with Next.js and powered by the football-data.org API, it offers a seamless and engaging experience for football enthusiasts.
 
+## Demo
+
+[Live Demo](https://football-news-gamma.vercel.app/)
+
 ## Features
 
 ### Core Features
@@ -342,11 +346,11 @@ npm start
 
 ## Deployment
 The application is configured for easy deployment on Vercel:
-Fork the repository on GitHub
-Create a new project on Vercel
-Connect your GitHub repository
-Add the required environment variables
-Deploy
+- Fork the repository on GitHub
+- Create a new project on Vercel
+- Connect your GitHub repository
+- Add the required environment variables
+- Deploy
 For other platforms, build the application and deploy the .next directory according to the platform's documentation.
 
 ## Common Issues and Troubleshooting
